@@ -16,6 +16,11 @@ hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "5d790c79d579bbebbc3cb5c9656cd1b3b361a18b364492821585a42ee07f652c"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "75950d95a5b439f64dc046394013429a04544907cb482079663ffb52374b6f07"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "fff92f1ff0c8a99cacbddf6b7e667886b0df51856a7b6be07958f1771de8afd6"
 metafile = true
 
 [[files]]
@@ -221,6 +231,11 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "c263e847df8e8deea386ddcab450f6936247a6b580ae07026f8f58e09062d1aa"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "f3636b986e4bf3fd2c66e393dca81170247b157b076f02160ff755e17dc792a9"
 metafile = true
@@ -271,6 +286,11 @@ hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "c34d19bc94ba7a7fe25727f387f64c6365182f3706d8d313c2d54119bb8b26d6"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
 hash = "eab5a30d30ab3837e16512c2b4e3831458ddec1aedd040501a23a70ebf8ab71a"
 metafile = true
@@ -288,4 +308,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "a3a62ad561358f43670434ced35740bc901e0eac9502815d4253041cfbfba113"
 metafile = true

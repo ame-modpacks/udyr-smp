@@ -1,13 +1,16 @@
 name = "UdyrSMP"
 author = "AmeMeida"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a620534d0ea5e94bb8bec0ac9141285b8de4406aa81971b78f482911c9ddafc8"
+hash = "59ed135d747352c4305bde514d1e10ecc1086c4da7e7007aff5cf51d1b4a5c2a"
 
 [versions]
 fabric = "0.15.7"
 minecraft = "1.20.4"
+
+[options]
+datapack-folder = "config/openloader/data"
