@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns"
+filename = "Dungeons and Taverns v3.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip"
+hash-format = "sha1"
+hash = "39c33b9a80f07e54b35a6db0dcc4f78da72e6803"
+
+[update]
+[update.modrinth]
+mod-id = "tpehi7ww"
+version = "cpJzZfzm"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/dungeons-and-taverns.pw.toml"
+hash = "3caade20d37b87f076c579025f03cdf3067910b928c579a02f45af2874b857bd"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
 metafile = true
@@ -181,6 +186,11 @@ hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "692045d10a02b4c08f0a458f9ce872ffe3fbbac24a2fd7fb00072e9061f03eec"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -236,6 +246,11 @@ hash = "9b1fc9d97771840f4a70fa45baafea62d161468f687734547a0795f3fe449132"
 metafile = true
 
 [[files]]
+file = "mods/origins.pw.toml"
+hash = "88e9289486fa76b1fc796c7e515c34020649df5af512df12144949dd0c2fc727"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "20b537c055853e57f065c4a73fcae7ac62a7b4cb20cf0befe0850a0bfc99408a"
 metafile = true
@@ -278,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "39261294f5e2995e6acc536ae090043fc9b8a7be7254de76bb909de918b3909e"
 metafile = true
 
 [[files]]
