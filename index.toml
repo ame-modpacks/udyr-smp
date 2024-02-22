@@ -6,6 +6,16 @@ hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "cb0623f7f10887d9eb69f8ddab8ea0743f982bd87c8f2928068fed1b411fcc02"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/towers-of-the-wild-reworked.pw.toml"
+hash = "08369e39217c9ae0e3beab4a61cf6d8574cbd3ab4d4c9e25d03f0b392388774c"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "471201353749cec7be02af32fefc99493b092e1663114073eed437ca00b02752"
 metafile = true
 
 [[files]]
@@ -63,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
@@ -121,6 +141,11 @@ hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -143,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
 metafile = true
 
 [[files]]
@@ -196,6 +226,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/moddetectionpreventer.pw.toml"
 hash = "9529d2b46f75f7f27c764c276e9d7ef55b13e57b94be7963affc48e88f1d9b3a"
 metafile = true
@@ -236,6 +271,11 @@ hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
@@ -263,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "99c8c38810dfd8669574f53f1a1c588297a43c767793b150b14da1866483d85f"
 metafile = true
 
 [[files]]
@@ -296,6 +341,16 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "5dddf7a58b8a3ba1e86f380383b11b99742efd178c3c2b1ef24f76db0afda12c"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
@@ -308,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
 metafile = true
 
 [[files]]
