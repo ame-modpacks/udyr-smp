@@ -1,12 +1,12 @@
 name = "UdyrSMP"
 author = "AmeMeida"
-version = "1.0.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "66c6af1cd266d8034a2b8c6a9d9f2d9a021ccca802322f6d52915997b02f6b1d"
+hash = "7b6cc5adc287a42c3b957f1072d2701a0e1bbc4307f9e97f1668039f57cd0f82"
 
 [versions]
 fabric = "0.15.7"
