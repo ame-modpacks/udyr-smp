@@ -37,11 +37,6 @@ file = "config/openloader/data/double shulker shells v1.3.6 (MC 1.20-1.20.4).zip
 hash = "599bee2556874d8b78b59b9665ef6edbda47e0fe516b58cbfcfffa2ec01fb0ff"
 
 [[files]]
-file = "config/openloader/data/dungeons-and-taverns.pw.toml"
-hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
-metafile = true
-
-[[files]]
 file = "config/openloader/data/fast leaf decay v2.0.9 (MC 1.20-1.20.4).zip"
 hash = "cd8d53b5c8acaeaf29405e7f31f7c4affa7f441ca15b027e9fa42525ed8a6f1c"
 
@@ -280,11 +275,6 @@ hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -482,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
 metafile = true
 
 [[files]]
