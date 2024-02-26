@@ -107,6 +107,10 @@ file = "config/openloader/data/track statistics v1.1.7 (MC 1.20-1.20.4).zip"
 hash = "16c99031e19aadcc34abf121ada9f0d4e8477b449ed325d52902faa7dd11438a"
 
 [[files]]
+file = "config/openloader/data/v1ultrakill.zip"
+hash = "2429803b17cff3203839e90c1c519a11547fa90f1b75dca36bc7434702a7de9b"
+
+[[files]]
 file = "config/openloader/data/villager workstation highlights v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "765112fd19412bd71f0a48f887a5a99c750efbb4a4f247091166ed55ea69b28e"
 
