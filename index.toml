@@ -518,12 +518,24 @@ file = "resourcepacks/VanillaTweaks_r694211.zip"
 hash = "9dd6403bea3a36bbcd3b30264aaa2bce65e43d2f8fc6504015a7dd80bf246717"
 
 [[files]]
+file = "resourcepacks/amethyst_marker.zip"
+hash = "bd9e9346e58dc5389ec0787b791d7ddb403528ee7b5899f23a106f9e07a862e3"
+
+[[files]]
 file = "resourcepacks/clearer_water.zip"
 hash = "9302442869e4de9a4ba7cc7d3f042c03705586e48fb8942e8bd6a43156ccd94d"
 
 [[files]]
+file = "resourcepacks/crop_marker.zip"
+hash = "1dea0c5f302aa5a2eb090cde3ebbf6213ac6206037bc51bcb47662eebb2be7b8"
+
+[[files]]
 file = "resourcepacks/no_cave_sound.zip"
 hash = "1518dcecd2774b0defdf383c3300ba24834917b1834169579b52be799bed1973"
+
+[[files]]
+file = "resourcepacks/old_enchantment_glint.zip"
+hash = "bc6199b85464b4f867a40fb64bfc5334063c1ba16fc45f7bd04870ccd09c213e"
 
 [[files]]
 file = "resourcepacks/ore_borders.zip"
