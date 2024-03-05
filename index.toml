@@ -339,6 +339,11 @@ hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
+metafile = true
+
+[[files]]
 file = "mods/moddetectionpreventer.pw.toml"
 hash = "9529d2b46f75f7f27c764c276e9d7ef55b13e57b94be7963affc48e88f1d9b3a"
 metafile = true
